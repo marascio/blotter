@@ -1,9 +1,5 @@
 language: r
-
-os:
-  - linux
-  - osx
-
 sudo: required
-
+r_binary_packages:
+    - RUnit
 r_check_args:
