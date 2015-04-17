@@ -1,6 +1,9 @@
 language: r
-sudo: required
-r_check_args:
+
 os:
   - linux
   - osx
+
+sudo: required
+
+r_check_args:
